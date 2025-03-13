@@ -1,4 +1,4 @@
-package com.traffic.light.system.ui.theme
+package com.traffic.light.system.impl.presentation.ui.theme
 
 import android.app.Activity
 import android.os.Build
