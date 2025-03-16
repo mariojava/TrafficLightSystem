@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">TrafficLightSystem</string>
+
+    <!--    Select car model feature-->
+    <string name="car_model_label">Car model</string>
+    <string name="car_model_placeholder">Enter your car model</string>
+    <string name="start_driving_button_text">Start Driving</string>
+    <string name="empty_card_model_error">Car model should not be empty</string>
+    <string name="invalid_car_model_error">Car model is too short</string>
 </resources>

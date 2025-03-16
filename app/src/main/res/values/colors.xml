@@ -7,4 +7,13 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="gray">#B3B3B3</color>
+    <color name="red">#F44336</color>
+    <color name="colorPrimary">#1E88E5</color>
+
+    <color name="traffic_light_red">#FFFF0000</color>
+    <color name="traffic_light_orange">#FFFFBF00</color>
+    <color name="traffic_light_green">#FF00FF00</color>
+
+    <color name="traffic_light_inactive">#736B6B</color>
 </resources>
