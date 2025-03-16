@@ -1,6 +1,6 @@
 package com.traffic.light.system.feature_traffic_light.presentation.view_model
 
-import com.traffic.light.system.feature_select_car.MainDispatcherRule
+import com.traffic.light.system.core.MainDispatcherRule
 import com.traffic.light.system.feature_traffic_light.presentation.model.TrafficLightState
 import junit.framework.TestCase.assertEquals
 import junit.framework.TestCase.assertFalse

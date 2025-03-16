@@ -1,7 +1,7 @@
 package com.traffic.light.system.feature_select_car.presentation.view_model
 
 
-import com.traffic.light.system.feature_select_car.MainDispatcherRule
+import com.traffic.light.system.core.MainDispatcherRule
 import com.traffic.light.system.feature_select_car.data.model.PreferencesResult
 import com.traffic.light.system.feature_select_car.domain.model.validation.ValidationResult
 import com.traffic.light.system.feature_select_car.domain.use_cases.SelectCarUseCases
